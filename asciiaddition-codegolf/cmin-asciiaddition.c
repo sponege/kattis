@@ -1,0 +1,3 @@
+#define m malloc
+#define t int
+d(char*x,char*y){while(*x){if(*x==35)*y++=*++x-38;else if(*x==36)*y++=*++x+178;else if(*x==37)*y++=*++x+89;else*y++=*x;x++;}}char*a;r(t i){return a[i/8]>>i%8&1;}main(){a=m(99);d("?%m#>$1%.#6B#.$/%.$>%.$>?%+#E%i#Ec$J#6%i#E%i%.$>$M#6~%3$MC#.#G%+?%m#E$1$M1~#.?#F$2#9#(",a);t x,y=0,c,n;char*e=m(999);for(t i=0;i<999;i++)e[i]=3;for(;y<7;y++){x=0;char*u=m(999);gets(u);for(c=0;;c++){if(c==5){c=0;x++;u++;}for(n=0;n<11;n++)e[x*11+n]&=*u=='x'==r(n*35+y*5+c);u++;if(!*u)break;}}char*o=m(9);t i=0,j=0;while(1){t x=e[j*11+i];if(x){if(x==3)break;o[j]=i+48;i=0;j++;}else i++;}sscanf(o,"%d:%d",&i,&j);sprintf(o,"%i",i+j);n=strlen(o);for(t y=0;y<7;y++){for(t x=0;x<n;x++){for(t c=0;c<6-(x>n-2);c++)putchar((r(((o[x]-48)*7+y)*5+c)&c<5)?'x':46);}puts("");}}

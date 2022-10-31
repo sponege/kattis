@@ -1,0 +1,13 @@
+a, b, z - local variables/function operands
+#define c char
+d - decoder function
+#define e else
+#define f if
+g - len(g)th of string (l, e, and n are already taken)
+i - input in main, also used as index for ascii in reader (r)
+#define l e f
+#define p printf
+r - read function, returns an integer
+s - string sent to print
+#define n p("\n")
+x, y - reserved for decoder, also reserved for x and y coordinates in printer

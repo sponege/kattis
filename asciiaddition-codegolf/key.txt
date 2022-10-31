@@ -1,0 +1,14 @@
+a, b, z - local variables/function operands
+c - ranges from 0 to 5 and is a search index for the ascii table for x
+d - decoder function
+e - elimination character array
+f - pointer to e
+g - len(g)th of string (l, e, and n are already taken)
+i - input in main, also used as index for ascii in reader (r)
+n - ranges from 0 to 10 and is a search index for the ascii table for y (num)
+o - output character array
+p - printing function
+r - read function, returns an integer
+s - string sent to print
+u - inp(u)t character array
+x, y - reserved for decoder, also reserved for x and y coordinates in printer, and for x and y coordinates in reader (main)
