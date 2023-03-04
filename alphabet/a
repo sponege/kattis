@@ -1,0 +1,1339 @@
+number of paths: 1, current: a
+path rejected: a
+number of paths: 1, current: i
+path: ai
+path rejected: i
+number of paths: 2, current: e
+path: ae
+path rejected: e
+path rejected: e
+number of paths: 3, current: m
+path: am
+path: aim
+path: aem
+path rejected: m
+path rejected: m
+path rejected: m
+number of paths: 6, current: c
+path: ac
+path rejected: c
+path rejected: c
+path rejected: c
+path rejected: c
+path rejected: c
+path rejected: c
+number of paths: 7, current: k
+path: ak
+path: aik
+path: aek
+path rejected: k
+path rejected: k
+path rejected: k
+path: ack
+path rejected: k
+path rejected: k
+path rejected: k
+path rejected: k
+number of paths: 11, current: g
+path: ag
+path rejected: g
+path: aeg
+path rejected: g
+path rejected: g
+path rejected: g
+path: acg
+path rejected: g
+path rejected: g
+path rejected: g
+path rejected: g
+path rejected: g
+path rejected: g
+path rejected: g
+number of paths: 14, current: o
+path: ao
+path: aio
+path: aeo
+path: amo
+path: aimo
+path: aemo
+path: aco
+path: ako
+path: aiko
+path: aeko
+path: acko
+path: ago
+path: aego
+path: acgo
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+number of paths: 28, current: b
+path: ab
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+number of paths: 28, current: j
+path: abj
+path: aij
+path: aej
+path rejected: j
+path rejected: j
+path rejected: j
+path: acj
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path: agj
+path: aegj
+path: acgj
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+number of paths: 34, current: f
+path: abf
+path rejected: f
+path: aef
+path rejected: f
+path rejected: f
+path rejected: f
+path: acf
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+number of paths: 36, current: n
+path: abn
+path: aijn
+path: aefn
+path: amn
+path: aimn
+path: aemn
+path: acn
+path: akn
+path: aikn
+path: aekn
+path: ackn
+path: agn
+path: aegn
+path: acgn
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path: abjn
+path: aejn
+path: acjn
+path: agjn
+path: aegjn
+path: acgjn
+path: abfn
+path: acfn
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+number of paths: 55, current: d
+path: abd
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path: acd
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+number of paths: 56, current: l
+path: abl
+path: aijl
+path: aefl
+path rejected: l
+path rejected: l
+path rejected: l
+path: acdl
+path: akl
+path: aikl
+path: aekl
+path: ackl
+path: agl
+path: aegl
+path: acgl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path: abjl
+path: aejl
+path: acjl
+path: agjl
+path: aegjl
+path: acgjl
+path: abfl
+path: acfl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path: abdl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+number of paths: 72, current: h
+path: abh
+path rejected: h
+path: aefh
+path rejected: h
+path rejected: h
+path rejected: h
+path: acdh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path: agh
+path: aegh
+path: acgh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path: abfh
+path: acfh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path: abdh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 78, current: p
+path: abp
+path: aijp
+path: aefp
+path: amnp
+path: aimnp
+path: aemnp
+path: acdp
+path: aklp
+path: aiklp
+path: aeklp
+path: acklp
+path: aghp
+path: aeghp
+path: acghp
+path: aop
+path: aiop
+path: aeop
+path: amop
+path: aimop
+path: aemop
+path: acop
+path: akop
+path: aikop
+path: aekop
+path: ackop
+path: agop
+path: aegop
+path: acgop
+path: abjp
+path: aejp
+path: acjp
+path: agjp
+path: aegjp
+path: acgjp
+path: abfp
+path: acfp
+path: abnp
+path: aijnp
+path: aefnp
+path: acnp
+path: aknp
+path: aiknp
+path: aeknp
+path: acknp
+path: agnp
+path: aegnp
+path: acgnp
+path: abjnp
+path: aejnp
+path: acjnp
+path: agjnp
+path: aegjnp
+path: acgjnp
+path: abfnp
+path: acfnp
+path: abdp
+path: ablp
+path: aijlp
+path: aeflp
+path: acdlp
+path: aglp
+path: aeglp
+path: acglp
+path: abjlp
+path: aejlp
+path: acjlp
+path: agjlp
+path: aegjlp
+path: acgjlp
+path: abflp
+path: acflp
+path: abdlp
+path: abhp
+path: aefhp
+path: acdhp
+path: abfhp
+path: acfhp
+path: abdhp
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: i
+path rejected: i
+number of paths: 1, current: e
+path rejected: e
+number of paths: 1, current: m
+path: im
+path rejected: m
+number of paths: 2, current: c
+path rejected: c
+path rejected: c
+number of paths: 2, current: k
+path: ik
+path rejected: k
+path rejected: k
+number of paths: 3, current: g
+path rejected: g
+path rejected: g
+path rejected: g
+number of paths: 3, current: o
+path: io
+path: imo
+path: iko
+path rejected: o
+path rejected: o
+path rejected: o
+number of paths: 6, current: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+number of paths: 6, current: j
+path: ij
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+number of paths: 6, current: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+number of paths: 6, current: n
+path: ijn
+path: imn
+path: ikn
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+number of paths: 8, current: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+number of paths: 8, current: l
+path: ijl
+path rejected: l
+path: ikl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+number of paths: 9, current: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 9, current: p
+path: ijp
+path: imnp
+path: iklp
+path: iop
+path: imop
+path: ikop
+path: ijnp
+path: iknp
+path: ijlp
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: e
+path rejected: e
+number of paths: 1, current: m
+path: em
+path rejected: m
+number of paths: 2, current: c
+path rejected: c
+path rejected: c
+number of paths: 2, current: k
+path: ek
+path rejected: k
+path rejected: k
+number of paths: 3, current: g
+path: eg
+path rejected: g
+path rejected: g
+path rejected: g
+number of paths: 4, current: o
+path: eo
+path: emo
+path: eko
+path: ego
+path rejected: o
+path rejected: o
+path rejected: o
+path rejected: o
+number of paths: 8, current: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+number of paths: 8, current: j
+path: ej
+path rejected: j
+path rejected: j
+path: egj
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+number of paths: 10, current: f
+path: ef
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+number of paths: 10, current: n
+path: efn
+path: emn
+path: ekn
+path: egn
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path: ejn
+path: egjn
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+number of paths: 15, current: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+number of paths: 15, current: l
+path: efl
+path rejected: l
+path: ekl
+path: egl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path: ejl
+path: egjl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+number of paths: 19, current: h
+path: efh
+path rejected: h
+path rejected: h
+path: egh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 20, current: p
+path: efp
+path: emnp
+path: eklp
+path: eghp
+path: eop
+path: emop
+path: ekop
+path: egop
+path: ejp
+path: egjp
+path: efnp
+path: eknp
+path: egnp
+path: ejnp
+path: egjnp
+path: eflp
+path: eglp
+path: ejlp
+path: egjlp
+path: efhp
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: m
+path rejected: m
+number of paths: 1, current: c
+path rejected: c
+number of paths: 1, current: k
+path rejected: k
+number of paths: 1, current: g
+path rejected: g
+number of paths: 1, current: o
+path: mo
+path rejected: o
+number of paths: 2, current: b
+path rejected: b
+path rejected: b
+number of paths: 2, current: j
+path rejected: j
+path rejected: j
+number of paths: 2, current: f
+path rejected: f
+path rejected: f
+number of paths: 2, current: n
+path: mn
+path rejected: n
+number of paths: 2, current: d
+path rejected: d
+path rejected: d
+number of paths: 2, current: l
+path rejected: l
+path rejected: l
+number of paths: 2, current: h
+path rejected: h
+path rejected: h
+number of paths: 2, current: p
+path: mnp
+path: mop
+path rejected: p
+number of paths: 1, current: c
+path rejected: c
+number of paths: 1, current: k
+path: ck
+path rejected: k
+number of paths: 2, current: g
+path: cg
+path rejected: g
+path rejected: g
+number of paths: 3, current: o
+path: co
+path: cko
+path: cgo
+path rejected: o
+path rejected: o
+path rejected: o
+number of paths: 6, current: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+path rejected: b
+number of paths: 6, current: j
+path: cj
+path rejected: j
+path: cgj
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+path rejected: j
+number of paths: 8, current: f
+path: cf
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+path rejected: f
+number of paths: 9, current: n
+path: cn
+path: ckn
+path: cgn
+path rejected: n
+path rejected: n
+path rejected: n
+path: cjn
+path: cgjn
+path: cfn
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+path rejected: n
+number of paths: 15, current: d
+path: cd
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+number of paths: 15, current: l
+path: cdl
+path: ckl
+path: cgl
+path rejected: l
+path rejected: l
+path rejected: l
+path: cjl
+path: cgjl
+path: cfl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+number of paths: 20, current: h
+path: cdh
+path rejected: h
+path: cgh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path: cfh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 22, current: p
+path: cdp
+path: cklp
+path: cghp
+path: cop
+path: ckop
+path: cgop
+path: cjp
+path: cgjp
+path: cfp
+path: cnp
+path: cknp
+path: cgnp
+path: cjnp
+path: cgjnp
+path: cfnp
+path: cdlp
+path: cglp
+path: cjlp
+path: cgjlp
+path: cflp
+path: cdhp
+path: cfhp
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: k
+path rejected: k
+number of paths: 1, current: g
+path rejected: g
+number of paths: 1, current: o
+path: ko
+path rejected: o
+number of paths: 2, current: b
+path rejected: b
+path rejected: b
+number of paths: 2, current: j
+path rejected: j
+path rejected: j
+number of paths: 2, current: f
+path rejected: f
+path rejected: f
+number of paths: 2, current: n
+path: kn
+path rejected: n
+path rejected: n
+number of paths: 3, current: d
+path rejected: d
+path rejected: d
+path rejected: d
+number of paths: 3, current: l
+path: kl
+path rejected: l
+path rejected: l
+number of paths: 3, current: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 3, current: p
+path: klp
+path: kop
+path: knp
+path rejected: p
+path rejected: p
+number of paths: 1, current: g
+path rejected: g
+number of paths: 1, current: o
+path: go
+path rejected: o
+number of paths: 2, current: b
+path rejected: b
+path rejected: b
+number of paths: 2, current: j
+path: gj
+path rejected: j
+path rejected: j
+number of paths: 3, current: f
+path rejected: f
+path rejected: f
+path rejected: f
+number of paths: 3, current: n
+path: gn
+path rejected: n
+path: gjn
+path rejected: n
+path rejected: n
+number of paths: 5, current: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+number of paths: 5, current: l
+path: gl
+path rejected: l
+path: gjl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+number of paths: 7, current: h
+path: gh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 7, current: p
+path: ghp
+path: gop
+path: gjp
+path: gnp
+path: gjnp
+path: glp
+path: gjlp
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: o
+path rejected: o
+number of paths: 1, current: b
+path rejected: b
+number of paths: 1, current: j
+path rejected: j
+number of paths: 1, current: f
+path rejected: f
+number of paths: 1, current: n
+path rejected: n
+number of paths: 1, current: d
+path rejected: d
+number of paths: 1, current: l
+path rejected: l
+number of paths: 1, current: h
+path rejected: h
+number of paths: 1, current: p
+path: op
+number of paths: 1, current: b
+path rejected: b
+number of paths: 1, current: j
+path: bj
+path rejected: j
+number of paths: 2, current: f
+path: bf
+path rejected: f
+path rejected: f
+number of paths: 3, current: n
+path: bn
+path: bjn
+path: bfn
+path rejected: n
+path rejected: n
+path rejected: n
+number of paths: 6, current: d
+path: bd
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+path rejected: d
+number of paths: 7, current: l
+path: bl
+path: bjl
+path: bfl
+path rejected: l
+path rejected: l
+path rejected: l
+path: bdl
+path rejected: l
+path rejected: l
+path rejected: l
+path rejected: l
+number of paths: 11, current: h
+path: bh
+path rejected: h
+path: bfh
+path rejected: h
+path rejected: h
+path rejected: h
+path: bdh
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 14, current: p
+path: bp
+path: bjp
+path: bfp
+path: bnp
+path: bjnp
+path: bfnp
+path: bdp
+path: blp
+path: bjlp
+path: bflp
+path: bdlp
+path: bhp
+path: bfhp
+path: bdhp
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: j
+path rejected: j
+number of paths: 1, current: f
+path rejected: f
+number of paths: 1, current: n
+path: jn
+path rejected: n
+number of paths: 2, current: d
+path rejected: d
+path rejected: d
+number of paths: 2, current: l
+path: jl
+path rejected: l
+path rejected: l
+number of paths: 3, current: h
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 3, current: p
+path: jp
+path: jnp
+path: jlp
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: f
+path rejected: f
+number of paths: 1, current: n
+path: fn
+path rejected: n
+number of paths: 2, current: d
+path rejected: d
+path rejected: d
+number of paths: 2, current: l
+path: fl
+path rejected: l
+path rejected: l
+number of paths: 3, current: h
+path: fh
+path rejected: h
+path rejected: h
+path rejected: h
+number of paths: 4, current: p
+path: fp
+path: fnp
+path: flp
+path: fhp
+path rejected: p
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: n
+path rejected: n
+number of paths: 1, current: d
+path rejected: d
+number of paths: 1, current: l
+path rejected: l
+number of paths: 1, current: h
+path rejected: h
+number of paths: 1, current: p
+path: np
+path rejected: p
+number of paths: 1, current: d
+path rejected: d
+number of paths: 1, current: l
+path: dl
+path rejected: l
+number of paths: 2, current: h
+path: dh
+path rejected: h
+path rejected: h
+number of paths: 3, current: p
+path: dp
+path: dlp
+path: dhp
+path rejected: p
+path rejected: p
+path rejected: p
+number of paths: 1, current: l
+path rejected: l
+number of paths: 1, current: h
+path rejected: h
+number of paths: 1, current: p
+path: lp
+path rejected: p
+number of paths: 1, current: h
+path rejected: h
+number of paths: 1, current: p
+path: hp
+path rejected: p
+number of paths: 1, current: p
+path rejected: p
+longest run: aegjnp
